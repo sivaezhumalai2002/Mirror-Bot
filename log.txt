@@ -1,0 +1,2 @@
+2021-06-19 20:07:21,406 - pyrogram.crypto.aes - INFO - Using TgCrypto
+2021-06-19 20:07:25,579 - bot - INFO - Bot Started!
